@@ -1,7 +1,7 @@
  Hi there I'm David Boros 👋
 
 
-- 🔭 I’m currently working on plant watering project
-- 🌱 I’m currently learning c++, programming microcontrollers 
-- 👯 I’m looking to build a website
+- 🔭 I’m currently working on microcontroller projects
+- 🌱 I’m currently learning c++, programming tiny computers
+- 👯 I’m intrested to learn about website building 
 
